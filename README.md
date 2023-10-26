@@ -1,2 +1,2 @@
-# P-gina-Web
+# Página-Web
 Contiene página web para el trabajo colaborativo
